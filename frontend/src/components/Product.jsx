@@ -14,14 +14,11 @@ const Product = () => {
       object : "https://prod.spline.design/Hf1gQMsfpGiuXumi/scene.splinecode"
     },
     {
+      object : "https://prod.spline.design/HRIYQ1vCP5jcFBU4/scene.splinecode"
+    },
+    {
       object : "https://prod.spline.design/bxoZjH0nObVbsUXD/scene.splinecode"
     },    
-    {
-      object : "https://prod.spline.design/Hf1gQMsfpGiuXumi/scene.splinecode"
-    },
-    {
-      object : "https://prod.spline.design/bxoZjH0nObVbsUXD/scene.splinecode"
-    },
   ]
 
   return (
